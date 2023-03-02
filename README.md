@@ -10,7 +10,7 @@ The run order of scripts:
 1) `filler.py`
 1) `rater.py`
 
-Tops 100.
+# Tops 100.
 
 - [Top 100 upvoted reports](tops_100/TOP100UPVOTED.md)
 - [Top 100 paid reports](tops_100/TOP100PAID.md)
