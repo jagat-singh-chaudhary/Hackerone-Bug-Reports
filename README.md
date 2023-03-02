@@ -15,7 +15,7 @@ The run order of scripts:
 - [Top 100 upvoted reports](tops_100/TOP100UPVOTED.md)
 - [Top 100 paid reports](tops_100/TOP100PAID.md)
 
-Tops by bug type.
+# Tops by bug type.
 
 - [Top XSS reports](tops_by_bug_type/TOPXSS.md)
 - [Top XXE reports](tops_by_bug_type/TOPXXE.md)
@@ -46,7 +46,7 @@ Tops by bug type.
 - [Top Authentication Bypass reports](tops_by_bug_type/TOPAUTH.md)
 - [Top MFA reports](tops_by_bug_type/TOPMFA.md)
 
-Tops by program.
+# Tops by program.
 
 - [Top Mail.ru reports](tops_by_program/TOPMAILRU.md)
 - [Top HackerOne reports](tops_by_program/TOPHACKERONE.md)
