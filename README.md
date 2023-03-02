@@ -1,5 +1,3 @@
-# Hackerone-Bug-Reports
-
 Tops of HackerOne reports. All reports' raw info stored in `data.csv`.
 Scripts to update this file are written in Python 3 and require `chromedriver` and `Chromium` executables at `PATH`.
 Every script contains some info about how it works.
@@ -10,12 +8,12 @@ The run order of scripts:
 1) `filler.py`
 1) `rater.py`
 
-# Tops 100.
+Tops 100.
 
 - [Top 100 upvoted reports](tops_100/TOP100UPVOTED.md)
 - [Top 100 paid reports](tops_100/TOP100PAID.md)
 
-# Tops by bug type.
+Tops by bug type.
 
 - [Top XSS reports](tops_by_bug_type/TOPXSS.md)
 - [Top XXE reports](tops_by_bug_type/TOPXXE.md)
@@ -46,7 +44,7 @@ The run order of scripts:
 - [Top Authentication Bypass reports](tops_by_bug_type/TOPAUTH.md)
 - [Top MFA reports](tops_by_bug_type/TOPMFA.md)
 
-# Tops by program.
+Tops by program.
 
 - [Top Mail.ru reports](tops_by_program/TOPMAILRU.md)
 - [Top HackerOne reports](tops_by_program/TOPHACKERONE.md)
